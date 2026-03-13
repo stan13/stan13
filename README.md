@@ -1,6 +1,6 @@
 # Hey, I'm Nathan
 
-Software engineer in Seattle with 10 years of experience. Currently building distributed LLM training systems and ML infrastructure at Amazon — working at scale with 10,000+ H200 GPUs on AWS.
+Australian machine learning engineer based in Seattle with 10 years of experience. Currently building distributed LLM training systems and ML infrastructure at Amazon — working at scale with 10,000+ H200 GPUs on AWS.
 
 Previously built golf tech platforms in Australia serving 500+ clubs. Masters in Software & Machine Learning from UWA.
 
