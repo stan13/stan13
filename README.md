@@ -11,8 +11,4 @@ Previously built golf tech platforms in Australia serving 500+ clubs. Masters in
 | Project | What it does |
 |---|---|
 | **codebase-to-video** | Generates video walkthroughs of codebases |
-| **crewly** | Plan daily boat trips with crew tracking, guest lists, and weather |
-| **ripper** | AI tool for real estate agents *(coming soon)* |
-| **micaddy** | Golf caddy app |
-| **billmates** | Split bills with friends |
-| **D_Light** | iOS lighting control system |
+| **boat-tracker** | Plan daily boat trips with crew tracking, guest lists, and weather |
