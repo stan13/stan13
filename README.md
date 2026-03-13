@@ -11,4 +11,4 @@ Previously built golf tech platforms in Australia serving 500+ clubs. Masters in
 | Project | What it does |
 |---|---|
 | **codebase-to-video** | Generates video walkthroughs of codebases |
-| **boat-tracker** | Plan daily boat trips with crew tracking, guest lists, and weather |
+| **crewly** | Plan daily boat trips with crew tracking, guest lists, and weather |
